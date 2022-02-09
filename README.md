@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raya
-- Master student at RUG
-- Trying to learn programming 
+- Digital Humanities Master student at the University of Groningen 
+- Interested in UX design and human interactions with technology. 
 
 <!---
 rallawy/rallawy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
