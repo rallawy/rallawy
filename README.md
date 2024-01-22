@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raya
-- Digital Humanities Master student at the University of Groningen 
+- Communication and Infromation Sciences graduate from the the University of Groningen in the Netherlands 
 
 
 <!---
