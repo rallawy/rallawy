@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raya
-- Communication and Infromation Sciences graduate from the the University of Groningen in the Netherlands 
+- Communication and Information Sciences graduate from the University of Groningen
 
 
 <!---
